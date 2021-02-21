@@ -1,0 +1,49 @@
+body {
+    font-family: sans-serif;
+}
+
+nav {
+border:2px solid rgb(32, 178, 226);   
+}
+.img{
+    background-color:LightSkyBlue ;
+}
+.text {
+    text-align: center;
+    border:1px solid black;
+    border-radius: 15px;
+    color: orange;
+}
+footer p {
+    border: 5px solid NavajoWhite;
+    margin: 0px;
+}
+nav a {
+    text-decoration: none;
+    margin:40px;
+    font-family:sans-serif ;
+}
+.tovar {
+    background-color:brown ;
+    border-radius: 10px;
+    color: white;
+}
+.button {
+    text-decoration: none;
+    border:3px solid blue;
+    padding: 5px;
+}
+.igron {
+  color: blue;  
+  font-size: 40px;
+}
+.ufo {
+    text-decoration: none;
+    border: 3px solid blue;
+    padding: 5px;
+
+}
+.ooooo {
+color: blue;
+font-size: 40px;
+}
